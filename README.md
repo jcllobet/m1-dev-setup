@@ -2,7 +2,7 @@
 Steps:
 - Xcode
 - Rosetta 2
-```softwareupdate --install-rosetta` \
+`softwareupdate --install-rosetta` \
 skipping license 
 `/usr/sbin/softwareupdate --install-rosetta --agree-to-license`
 

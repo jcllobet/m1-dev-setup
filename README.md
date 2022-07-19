@@ -8,6 +8,7 @@ Steps:
 - iterm2
 - specific iterm shortcuts https://sourabhbajaj.com/mac-setup/iTerm/
 - default terminal (iterm2)
+- homebrew `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 - apple settings (hot corners, dock and so on)
 - 
 - useful applets (sniffer, ram, etc)

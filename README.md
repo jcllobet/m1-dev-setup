@@ -10,21 +10,17 @@ Steps:
 - default terminal (iterm2)
 - homebrew `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 - apple settings (hot corners, dock and so on)
-- 
 - useful applets (sniffer, ram, etc)
 - smartmouse
-- alfred / r
-- homebrew
-
+- raycast
 - git
 - global keys github
 - oh my zsh
 - customize oh my zsh
 - vscode
 - customize vscode
-- 
 
 
-https://amanhimself.dev/blog/setup-macbook-m1/
-https://betterprogramming.pub/setting-up-a-macbook-m1-development-machine-cda22a92fa22
-https://alexkates.dev/macbook-pro-m1-developer-setup-2022
+- [Tutorial1](https://amanhimself.dev/blog/setup-macbook-m1/)
+- [Tutorial2](https://betterprogramming.pub/setting-up-a-macbook-m1-development-machine-cda22a92fa22)
+- [Tutorial3](https://alexkates.dev/macbook-pro-m1-developer-setup-2022)

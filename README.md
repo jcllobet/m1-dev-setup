@@ -19,6 +19,7 @@ Steps:
 - customize oh my zsh
 - vscode
 - customize vscode
+- git plugins (fuck gitdiff zsh autosuggestions)
 
 
 - [Tutorial1](https://amanhimself.dev/blog/setup-macbook-m1/)
